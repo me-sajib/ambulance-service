@@ -1,0 +1,10 @@
+{
+	"id": 1,
+	"title": "Let's Talk.",
+	"email": "info@firstambulance.com.my",
+	"phone": "1300 88 1919",
+	"location": {
+		"first": "75, Jalan Templer, Section 6, Petaling Jaya, 46000,",
+		"second": "Selangor, Malaysia."
+	}
+}
